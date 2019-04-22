@@ -1,4 +1,4 @@
-# node和webhooks的自动化部署，其实就是代码提交，然后服务器从github上拉取代码，这就是所谓的自动化部署
+
 
 ##  1.首先从github的webhooks配置一个请求，每提交代码，都会触发这个请求
 ![Image_20180904141745-background](./assets/Image_20180904141745.png)
